@@ -1,0 +1,403 @@
+---
+title: "Applied Sampling Project"
+author: "Muano Nemasea"
+date: "2026-10-30"
+output:
+  pdf_document: default
+  html_document: default
+editor_options: 
+  chunk_output_type: console
+---
+
+
+
+```{r}
+# ==============================================================================
+# APPLIED SAMPLING SURVEY DESIGN PROJECT - FULLY ALIGNED METHODOLOGY R CODE
+# Architecture: Fixed Finite Population (N = 10,000), k = 33 Strata
+# Design: Strict Stratified Proportional Sampling (Self-Weighting) vs SRSWOR
+# ==============================================================================
+
+library(ggplot2)
+library(dplyr)
+library(survey)
+
+# ==============================================================================
+# STEP 1: CONSTRUCT FINITE POPULATION (N = 10,000) & TRUE PARAMETERS
+# ==============================================================================
+set.seed(2026)
+
+k <- 33                               # Number of strata (Academic Schools)
+raw_sizes <- runif(k, 800, 2000)
+N_j <- round((raw_sizes / sum(raw_sizes)) * 10000)
+N_j[k] <- N_j[k] + (10000 - sum(N_j)) # Ensure exact population sum N = 10,000
+N <- sum(N_j)                         # Total population size
+W_j <- N_j / N                         # Stratum population weights
+
+alpha <- 0.05
+z_alpha_2 <- 1.96                     # 95% Confidence level
+
+# Generate stratum baseline voting probabilities
+raw_beta <- rbeta(k, 0.2, 0.5555) 
+p_baseline_pool <- 0.05 + 0.90 * raw_beta 
+
+population_list <- vector("list", k)
+
+for (j in 1:k) {
+  n_j_pop <- N_j[j]
+  p_baseline_j <- p_baseline_pool[j]
+  
+  # Covariates: Level (X1) and Enrollment (X3)
+  p_postgrad_j <- runif(1, 0.10, 0.50)
+  p_parttime_j <- runif(1, 0.10, 0.50)
+  
+  x1_level_bin  <- rbinom(n_j_pop, 1, p_postgrad_j)
+  x3_enroll_bin <- rbinom(n_j_pop, 1, p_parttime_j)
+  
+  beta_1 <-  0.7
+  beta_3 <- -0.4
+  
+  mean_x1 <- p_postgrad_j
+  mean_x3 <- p_parttime_j
+  alpha_j <- log(p_baseline_j / (1 - p_baseline_j)) - (beta_1 * mean_x1 + beta_3 * mean_x3)
+  
+  logit_p <- alpha_j + (beta_1 * x1_level_bin) + (beta_3 * x3_enroll_bin)
+  p_individual <- 1 / (1 + exp(-logit_p))
+  
+  y_voted_bin <- rbinom(n_j_pop, 1, p_individual)
+  
+  population_list[[j]] <- data.frame(
+    Unit_ID         = paste0("Unit_", j, "_", 1:n_j_pop),
+    Stratum         = j,
+    Voting_Status = ifelse(y_voted_bin == 1, "Voted", "Not Voted"),
+    Y_numeric       = y_voted_bin,
+    Level_of_Study      = ifelse(x1_level_bin == 1, "Postgraduate", "Undergraduate"),
+    MOde_of_Study   = ifelse(x3_enroll_bin == 1, "Part-time", "Full-time")
+  )
+}
+
+population_df <- bind_rows(population_list)
+
+# True Finite Population Parameters
+P_st_true <- mean(population_df$Y_numeric)
+P_j_true  <- population_df %>% 
+  group_by(Stratum) %>% 
+  summarise(P_j = mean(Y_numeric), .groups = 'drop') %>% 
+  pull(P_j)
+Q_j_true  <- 1 - P_j_true
+
+cat("====================================================\n")
+cat("STEP 1: FINITE POPULATION UNIVERSE GENERATED (N = 10,000)\n")
+cat("====================================================\n")
+cat("True Finite Population Voting Proportion (P_st_true):", round(P_st_true, 4), "\n")
+cat("Total Population Units (N)                         :", N, "\n\n")
+
+# Export population file (Section 4 deliverable specification)
+write.csv(population_df, "population.csv", row.names = FALSE)
+# ==============================================================================
+# SECTION B: SAMPLE SIZE DETERMINATION & SENSITIVITY ANALYSIS
+# ==============================================================================
+
+# Target Allowable Margin of Error: d = 5% relative bound on P_st
+gamma_target <- 0.05
+d_allowable  <- gamma_target * P_st_true
+
+# Grid search for minimum completed sampling fraction w_opt (without continuity term)
+w_grid <- seq(0.005, 0.99, length.out = 1000)
+
+plot1_calc <- data.frame(w = w_grid) %>%
+  rowwise() %>%
+  mutate(
+    n = N * w,
+    n_j_min = min(N_j * w),
+    V_hat = ifelse(n_j_min >= 2, ((1 - w) / (N^2)) * sum((N_j^2 * P_j_true * Q_j_true) / ((N_j * w) - 1)), NA),
+    Margin_Error = ifelse(n_j_min >= 2, z_alpha_2 * sqrt(V_hat), NA)
+  )
+
+w_constraint <- max(2 / N_j)
+valid_w      <- plot1_calc %>% filter(Margin_Error <= d_allowable) %>% pull(w)
+w_opt        <- ifelse(length(valid_w) > 0, min(valid_w), w_constraint)
+
+# Completed sample size required for precision
+n_completed_req <- ceiling(N * w_opt)
+
+# Non-response inflation planning formula (Section 2.8: n_field = ceil(n_req / (1 - r)))
+response_rate <- 0.80
+n_field_req   <- min(N, ceiling(n_completed_req / response_rate))
+w_field       <- n_field_req / N
+
+cat("====================================================\n")
+cat("SECTION B: SAMPLE SIZE DETERMINATION SUMMARY\n")
+cat("====================================================\n")
+cat("Target Relative Precision Bound          :", gamma_target * 100, "%\n")
+cat("Allowable Absolute Margin of Error (d)   :", round(d_allowable, 5), "\n")
+cat("Optimal Completed Sampling Fraction (w)  :", round(w_opt * 100, 3), "%\n")
+cat("Required Completed Sample Size (n)       :", n_completed_req, "\n")
+cat("Field Sample Size with 80% Response Rate :", n_field_req, "\n")
+cat("====================================================\n\n")
+
+# --- GRAPH 1: Required Sample Size (n) vs. Margin of Error (d) ---
+c_levels <- c(0.25, 0.50, 0.75, 1.00)
+labels_c <- c("25%", "50%", "75% ", "100%")
+d_grid   <- seq(0.005, 0.08, length.out = 300)
+
+graph1_data_list <- list()
+
+for (i in seq_along(c_levels)) {
+  c_val <- c_levels[i]
+  lbl   <- labels_c[i]
+  
+  P_j_c   <- pmin(pmax(c_val * P_j_true, 0.01), 0.99)
+  V_bar_c <- sum(W_j * P_j_c * (1 - P_j_c))
+  
+  n_req <- 1 / ((1 / N) + ((d_grid / z_alpha_2)^2 / V_bar_c))
+  
+  graph1_data_list[[i]] <- data.frame(
+    Margin_of_Error   = d_grid,
+    Required_n        = n_req,
+    Assumed_Parameter = lbl
+  )
+}
+
+graph1_data <- bind_rows(graph1_data_list)
+
+graph1_data$Assumed_Parameter <- factor(
+  trimws(graph1_data$Assumed_Parameter),
+  levels = c("25%", "50%", "75%", "100%")
+)
+
+graph1 <- ggplot(graph1_data, aes(x = Margin_of_Error, y = Required_n, color = Assumed_Parameter)) +
+  geom_line(linewidth = 1.1) +
+  geom_vline(xintercept = d_allowable, linetype = "dashed", color = "black", linewidth = 0.8) +
+  annotate("text", x = d_allowable + 0.0015, y = N * 0.80, 
+           label = paste0("Target d = ", round(d_allowable, 4)), 
+           angle = 90, vjust = 1, fontface = "bold", color = "black") +
+  scale_color_brewer(palette = "Set1", name = "Assumed Parameter Level") +
+  scale_y_continuous(labels = scales::comma, limits = c(0, N)) +
+  labs(
+    
+    x = "Margin of Error d (Absolute Half-Width)",
+    y = "Required Sample Size (n)"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "bottom", plot.title = element_text(face = "bold", size = 11))
+
+# Explicitly print Graph 1
+print(graph1)
+
+# --- GRAPH 2: P vs. Total Stratified Variance ---
+w_fixed <- 0.05
+p_vals  <- seq(0.01, 0.99, length.out = 500)
+
+plot2_data <- data.frame(P = p_vals) %>%
+  rowwise() %>%
+  mutate(V_hat = ((1 - w_fixed) / (N^2)) * sum((N_j^2 * P * (1 - P)) / ((N_j * w_fixed) - 1)))
+
+graph2 <- ggplot(plot2_data, aes(x = P, y = V_hat)) +
+  geom_line(color = "steelblue", linewidth = 1.2) +
+  geom_vline(xintercept = 0.50, linetype = "dashed", color = "red", linewidth = 0.8) +
+ 
+  labs(
+    
+    x = "Proportion (P)",
+    y = expression(hat(V)(P[st]))
+  ) +
+  theme_minimal()
+
+# Explicitly print Graph 2
+print(graph2)
+# ==============================================================================
+# SECTION C & D: DRAW SAMPLE (STRICT PROPORTIONAL ALLOCATION) & ESTIMATE
+# ==============================================================================
+
+# Draw realized sample strictly according to proportional allocation (Section 2.2)
+# n_h = round(n * W_h)
+stratum_alloc <- data.frame(
+  Stratum = 1:k,
+  N_j     = N_j,
+  W_j     = W_j,
+  n_j     = round(n_completed_req * W_j)
+)
+
+# Adjust integer rounding discrepancies to ensure sum(n_j) == n_completed_req
+diff_n <- n_completed_req - sum(stratum_alloc$n_j)
+stratum_alloc$n_j[which.max(stratum_alloc$N_j)] <- stratum_alloc$n_j[which.max(stratum_alloc$N_j)] + diff_n
+
+# Realize the completed sample
+completed_sample <- population_df %>%
+  inner_join(stratum_alloc %>% select(Stratum, n_j), by = "Stratum") %>%
+  group_by(Stratum) %>%
+  slice_sample(prop = 1) %>%       # Randomly permute/shuffle rows within each stratum
+  filter(row_number() <= n_j) %>%  # Select exactly the first n_j rows
+  ungroup()
+n_completed_actual <- nrow(completed_sample)
+
+# Export realized sample file (Section 4 deliverable specification)
+write.csv(completed_sample, "realised_sample.csv", row.names = FALSE)
+
+# Build Survey Design Object with exact FPC and sampling weights
+pop_sizes_df <- data.frame(Stratum = 1:k, N_j = N_j)
+
+completed_sample_design <- completed_sample %>%
+  # 1. Count actual respondents per stratum (creates column 'n_j')
+  add_count(Stratum, name = "n_j") %>%
+  # 2. Attach population size N_j per stratum
+  left_join(pop_sizes_df, by = "Stratum") %>%
+  # 3. Calculate weights and FPC
+  mutate(
+    Sampling_Weight = N_j / n_j,
+    fpc             = N_j
+  )
+
+
+stratified_design_obj <- svydesign(
+  id      = ~1,
+  strata  = ~Stratum,
+  weights = ~Sampling_Weight,
+  fpc     = ~fpc,
+  data    = completed_sample_design
+)
+
+# Survey Point Estimate and Pure Design Precision Metrics
+strat_mean <- svymean(~Y_numeric, stratified_design_obj, deff = TRUE)
+strat_se   <- as.numeric(SE(strat_mean))
+strat_ci   <- confint(strat_mean)
+strat_deff <- as.numeric(deff(strat_mean))
+
+# d = 1.96 * SE (strictly aligned with Section 2.6)
+margin_error_achieved <- z_alpha_2 * strat_se
+rel_prec_achieved     <- (margin_error_achieved / coef(strat_mean)) * 100
+
+cat("====================================================\n")
+cat("SECTION D: ESTIMATION RESULTS & PRECISION EVALUATION\n")
+cat("====================================================\n")
+cat("True Population Proportion (P_st_true):", round(P_st_true, 4), "\n")
+cat("Point Estimate (hat(P)_st)             :", round(coef(strat_mean), 4), "\n")
+cat("Estimated Standard Error               :", round(strat_se, 5), "\n")
+cat("95% Margin of Error Achieved           :", round(margin_error_achieved, 5), "\n")
+cat("Achieved Relative Precision            :", round(rel_prec_achieved, 2), "% (Target: <= 5.0%)\n")
+cat("Design Effect (DEFF)                   :", round(strat_deff, 4), "\n\n")
+
+# --- SRSWOR Benchmark Comparison (Equal Sample Size) ---
+srs_benchmark_sample <- population_df %>%
+  slice_sample(n = n_completed_actual)
+
+srs_design_obj <- svydesign(
+  id      = ~1,
+  fpc     = ~rep(N, n_completed_actual),
+  weights = ~rep(1, n_completed_actual),
+  data    = srs_benchmark_sample
+)
+
+srs_mean <- svymean(~Y_numeric, srs_design_obj)
+srs_se   <- as.numeric(SE(srs_mean))
+
+cat("=== SRSWOR BENCHMARK PRECISION COMPARISON ===\n")
+cat("Stratified Standard Error :", round(strat_se, 5), "\n")
+cat("SRSWOR Standard Error     :", round(srs_se, 5), "\n")
+cat("Precision Gain Ratio (PGR):", round(srs_se / strat_se, 4), "\n\n")
+
+# ==============================================================================
+# SECTION E: MONTE CARLO SIMULATION (R = 1000 Repetitions)
+# ==============================================================================
+
+R <- 1000
+
+strat_estimates <- numeric(R); strat_ses <- numeric(R)
+strat_ci_lower  <- numeric(R); strat_ci_upper <- numeric(R)
+strat_covered   <- logical(R); strat_deffs    <- numeric(R)
+
+srs_estimates   <- numeric(R); srs_ses <- numeric(R)
+srs_ci_lower    <- numeric(R); srs_ci_upper <- numeric(R)
+srs_covered     <- logical(R)
+
+# Pre-split the population by stratum ONCE outside the loop for fast execution
+pop_by_stratum <- split(population_df, population_df$Stratum)
+stratum_target_n <- stratum_alloc$n_j
+stratum_target_N <- stratum_alloc$N_j
+
+cat("Running Monte Carlo simulation (R =", R, "replications)...\n")
+pb <- txtProgressBar(min = 0, max = R, style = 3)
+
+for (i in 1:R) {
+  # 1. Stratified Proportional Draw (Fast & Guaranteed n_j per stratum)
+  sample_list <- mapply(function(df_strat, nj) {
+    df_strat[sample.int(nrow(df_strat), nj), ]
+  }, pop_by_stratum, stratum_target_n, SIMPLIFY = FALSE)
+  
+  s_strat <- bind_rows(sample_list) %>%
+    left_join(stratum_alloc %>% select(Stratum, N_j, n_j), by = "Stratum") %>%
+    mutate(
+      Sampling_Weight = N_j / n_j,
+      fpc = N_j
+    )
+  
+  st_obj <- svydesign(id = ~1, strata = ~Stratum, weights = ~Sampling_Weight, fpc = ~fpc, data = s_strat)
+  st_m   <- svymean(~Y_numeric, st_obj, deff = TRUE)
+  
+  strat_estimates[i] <- coef(st_m)
+  strat_ses[i]       <- as.numeric(SE(st_m))
+  strat_deffs[i]     <- as.numeric(deff(st_m))
+  ci_s               <- confint(st_m)
+  strat_ci_lower[i]  <- ci_s[1]
+  strat_ci_upper[i]  <- ci_s[2]
+  strat_covered[i]   <- (P_st_true >= ci_s[1] && P_st_true <= ci_s[2])
+  
+  # 2. SRSWOR Benchmark Draw (Equal sample size)
+  s_srs   <- population_df[sample.int(N, n_completed_actual), ]
+  srs_obj <- svydesign(id = ~1, fpc = ~rep(N, n_completed_actual), weights = ~rep(1, n_completed_actual), data = s_srs)
+  srs_m   <- svymean(~Y_numeric, srs_obj)
+  
+  srs_estimates[i] <- coef(srs_m)
+  srs_ses[i]       <- as.numeric(SE(srs_m))
+  ci_srs           <- confint(srs_m)
+  srs_ci_lower[i]  <- ci_srs[1]
+  srs_ci_upper[i]  <- ci_srs[2]
+  srs_covered[i]   <- (P_st_true >= ci_srs[1] && P_st_true <= ci_srs[2])
+  
+  if (i %% 50 == 0) setTxtProgressBar(pb, i)
+}
+close(pb)
+
+# Metric calculation function strictly aligned with Section 2.9 & 2.10
+calc_metrics <- function(estimates, ses, ci_lower, ci_upper, covered, deffs = NULL, true_val, R) {
+  bias      <- mean(estimates) - true_val
+  rel_bias  <- (bias / true_val) * 100
+  emp_se    <- sd(estimates)
+  avg_se    <- mean(ses)
+  variance  <- emp_se^2
+  mse       <- bias^2 + variance
+  rmse      <- sqrt(mse)
+  coverage  <- mean(covered)
+  mc_se_cov <- sqrt((coverage * (1 - coverage)) / R)
+  avg_width <- mean(ci_upper - ci_lower)
+  avg_deff  <- if (!is.null(deffs)) mean(deffs) else 1.0
+  
+  return(list(
+    Bias = bias, Rel_Bias = rel_bias, Emp_SE = emp_se, Avg_SE = avg_se,
+    Variance = variance, MSE = mse, RMSE = rmse, Coverage = coverage, 
+    MC_SE_Cov = mc_se_cov, Avg_Width = avg_width, Avg_Deff = avg_deff
+  ))
+}
+
+strat_perf <- calc_metrics(strat_estimates, strat_ses, strat_ci_lower, strat_ci_upper, strat_covered, strat_deffs, P_st_true, R)
+srs_perf   <- calc_metrics(srs_estimates, srs_ses, srs_ci_lower, srs_ci_upper, srs_covered, NULL, P_st_true, R)
+
+results_section_e <- data.frame(
+  Metric = c("Empirical Bias", "Relative Bias (%)", "Empirical Standard Error", 
+             "Average Estimated Standard Error", "Sampling Variance", "Mean Squared Error (MSE)", 
+             "RMSE", "95% CI Coverage (%)", "MC Standard Error of Coverage (%)", 
+             "Average CI Width", "Design Effect (DEFF)"),
+  Stratified_Design = c(strat_perf$Bias, strat_perf$Rel_Bias, strat_perf$Emp_SE, strat_perf$Avg_SE,
+                        strat_perf$Variance, strat_perf$MSE, strat_perf$RMSE, strat_perf$Coverage * 100, 
+                        strat_perf$MC_SE_Cov * 100, strat_perf$Avg_Width, strat_perf$Avg_Deff),
+  SRSWOR_Benchmark  = c(srs_perf$Bias, srs_perf$Rel_Bias, srs_perf$Emp_SE, srs_perf$Avg_SE,
+                        srs_perf$Variance, srs_perf$MSE, srs_perf$RMSE, srs_perf$Coverage * 100, 
+                        srs_perf$MC_SE_Cov * 100, srs_perf$Avg_Width, srs_perf$Avg_Deff)
+)
+
+cat("\n====================================================\n")
+cat("SECTION E: MONTE CARLO SIMULATION RESULTS (1000 REPS)\n")
+cat("====================================================\n")
+print(results_section_e)
+```

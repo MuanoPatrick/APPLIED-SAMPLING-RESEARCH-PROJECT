@@ -1,0 +1,2408 @@
+"Unit_ID","Stratum","Voting_Status","Y_numeric","Level_of_Study","MOde_of_Study","n_j"
+"Unit_1_384",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_379",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_160",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_16",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_83",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_192",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_191",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_321",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_100",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_394",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_45",1,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_1_373",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_108",1,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_1_67",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_313",1,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_1_363",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_172",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_225",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_50",1,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_1_181",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_88",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_340",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_368",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_328",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_312",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_132",1,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_1_55",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_303",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_167",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_220",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_236",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_23",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_327",1,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_1_30",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_54",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_389",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_209",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_64",1,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_1_51",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_360",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_222",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_367",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_78",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_21",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_136",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_90",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_202",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_13",1,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_1_250",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_317",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_26",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_257",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_302",1,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_1_57",1,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_1_5",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_273",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_334",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_365",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_193",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_81",1,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_1_103",1,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_1_322",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_148",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_269",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_62",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_272",1,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_1_349",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_105",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_174",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_254",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_154",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_241",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_39",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_179",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_387",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_111",1,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_1_60",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_118",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_366",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_150",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_61",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_343",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_290",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_382",1,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_1_130",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_314",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_294",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_1_305",1,"Voted",1,"Undergraduate","Full-time",96
+"Unit_1_184",1,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_1_98",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_258",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_35",1,"Voted",1,"Undergraduate","Part-time",96
+"Unit_1_284",1,"Voted",1,"Postgraduate","Part-time",96
+"Unit_1_309",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_260",1,"Voted",1,"Postgraduate","Full-time",96
+"Unit_1_266",1,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_2_272",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_285",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_263",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_282",2,"Voted",1,"Postgraduate","Part-time",86
+"Unit_2_79",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_270",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_254",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_305",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_155",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_301",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_85",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_219",2,"Voted",1,"Undergraduate","Part-time",86
+"Unit_2_119",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_8",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_172",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_329",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_229",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_210",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_144",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_154",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_315",2,"Voted",1,"Undergraduate","Part-time",86
+"Unit_2_275",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_98",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_47",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_89",2,"Voted",1,"Postgraduate","Full-time",86
+"Unit_2_349",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_25",2,"Voted",1,"Undergraduate","Part-time",86
+"Unit_2_183",2,"Voted",1,"Postgraduate","Full-time",86
+"Unit_2_135",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_29",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_149",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_121",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_108",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_265",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_348",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_133",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_105",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_126",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_333",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_331",2,"Voted",1,"Postgraduate","Full-time",86
+"Unit_2_34",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_206",2,"Voted",1,"Postgraduate","Full-time",86
+"Unit_2_251",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_250",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_225",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_146",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_161",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_284",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_173",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_30",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_55",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_160",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_131",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_234",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_64",2,"Voted",1,"Postgraduate","Full-time",86
+"Unit_2_45",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_72",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_28",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_259",2,"Voted",1,"Postgraduate","Full-time",86
+"Unit_2_7",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_97",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_209",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_351",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_124",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_242",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_112",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_42",2,"Voted",1,"Undergraduate","Part-time",86
+"Unit_2_179",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_80",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_37",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_292",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_185",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_307",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_241",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_341",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_14",2,"Voted",1,"Postgraduate","Full-time",86
+"Unit_2_6",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_211",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_189",2,"Voted",1,"Undergraduate","Part-time",86
+"Unit_2_356",2,"Voted",1,"Undergraduate","Full-time",86
+"Unit_2_10",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_308",2,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_2_184",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_2_237",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_60",2,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_2_130",2,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_3_31",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_76",3,"Voted",1,"Postgraduate","Full-time",57
+"Unit_3_186",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_145",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_125",3,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_3_82",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_59",3,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_3_105",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_203",3,"Not Voted",0,"Postgraduate","Part-time",57
+"Unit_3_98",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_233",3,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_3_89",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_226",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_210",3,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_3_141",3,"Voted",1,"Postgraduate","Part-time",57
+"Unit_3_135",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_90",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_83",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_127",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_65",3,"Voted",1,"Undergraduate","Part-time",57
+"Unit_3_181",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_88",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_110",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_163",3,"Voted",1,"Postgraduate","Full-time",57
+"Unit_3_10",3,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_3_80",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_35",3,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_3_15",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_103",3,"Voted",1,"Postgraduate","Full-time",57
+"Unit_3_170",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_234",3,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_3_222",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_22",3,"Voted",1,"Postgraduate","Full-time",57
+"Unit_3_126",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_64",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_162",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_190",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_75",3,"Voted",1,"Postgraduate","Full-time",57
+"Unit_3_178",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_8",3,"Voted",1,"Postgraduate","Full-time",57
+"Unit_3_119",3,"Voted",1,"Undergraduate","Part-time",57
+"Unit_3_131",3,"Voted",1,"Postgraduate","Full-time",57
+"Unit_3_211",3,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_3_95",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_44",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_46",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_154",3,"Voted",1,"Undergraduate","Part-time",57
+"Unit_3_54",3,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_3_230",3,"Voted",1,"Postgraduate","Full-time",57
+"Unit_3_2",3,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_3_200",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_204",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_62",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_52",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_3_213",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_189",3,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_3_223",3,"Voted",1,"Undergraduate","Full-time",57
+"Unit_4_215",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_201",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_182",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_238",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_157",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_95",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_121",4,"Voted",1,"Postgraduate","Full-time",67
+"Unit_4_106",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_218",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_55",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_149",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_56",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_48",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_164",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_15",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_270",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_263",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_84",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_134",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_212",4,"Not Voted",0,"Postgraduate","Part-time",67
+"Unit_4_175",4,"Voted",1,"Undergraduate","Part-time",67
+"Unit_4_203",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_169",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_40",4,"Not Voted",0,"Postgraduate","Part-time",67
+"Unit_4_220",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_250",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_204",4,"Not Voted",0,"Postgraduate","Full-time",67
+"Unit_4_25",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_58",4,"Voted",1,"Postgraduate","Full-time",67
+"Unit_4_279",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_162",4,"Not Voted",0,"Postgraduate","Full-time",67
+"Unit_4_38",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_53",4,"Voted",1,"Undergraduate","Part-time",67
+"Unit_4_209",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_39",4,"Not Voted",0,"Postgraduate","Full-time",67
+"Unit_4_150",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_274",4,"Not Voted",0,"Postgraduate","Full-time",67
+"Unit_4_191",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_107",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_176",4,"Voted",1,"Undergraduate","Part-time",67
+"Unit_4_123",4,"Not Voted",0,"Postgraduate","Part-time",67
+"Unit_4_13",4,"Voted",1,"Postgraduate","Full-time",67
+"Unit_4_42",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_173",4,"Voted",1,"Postgraduate","Full-time",67
+"Unit_4_188",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_30",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_19",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_82",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_179",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_72",4,"Not Voted",0,"Postgraduate","Full-time",67
+"Unit_4_224",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_167",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_277",4,"Voted",1,"Postgraduate","Part-time",67
+"Unit_4_222",4,"Voted",1,"Undergraduate","Part-time",67
+"Unit_4_75",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_32",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_239",4,"Voted",1,"Undergraduate","Part-time",67
+"Unit_4_103",4,"Voted",1,"Postgraduate","Full-time",67
+"Unit_4_27",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_273",4,"Voted",1,"Undergraduate","Part-time",67
+"Unit_4_110",4,"Voted",1,"Postgraduate","Full-time",67
+"Unit_4_136",4,"Not Voted",0,"Postgraduate","Part-time",67
+"Unit_4_217",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_66",4,"Not Voted",0,"Undergraduate","Part-time",67
+"Unit_4_1",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_4_41",4,"Voted",1,"Undergraduate","Full-time",67
+"Unit_4_278",4,"Not Voted",0,"Undergraduate","Full-time",67
+"Unit_5_290",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_40",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_5",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_321",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_31",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_162",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_201",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_218",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_324",5,"Not Voted",0,"Postgraduate","Part-time",86
+"Unit_5_80",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_159",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_71",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_125",5,"Voted",1,"Undergraduate","Part-time",86
+"Unit_5_86",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_81",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_18",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_282",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_240",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_25",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_209",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_99",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_54",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_344",5,"Voted",1,"Postgraduate","Part-time",86
+"Unit_5_300",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_181",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_142",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_348",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_261",5,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_5_92",5,"Not Voted",0,"Postgraduate","Part-time",86
+"Unit_5_252",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_167",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_299",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_65",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_90",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_347",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_293",5,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_5_291",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_220",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_213",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_133",5,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_5_222",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_82",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_53",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_8",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_258",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_309",5,"Voted",1,"Undergraduate","Part-time",86
+"Unit_5_32",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_308",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_130",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_330",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_56",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_267",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_296",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_95",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_41",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_185",5,"Voted",1,"Undergraduate","Part-time",86
+"Unit_5_184",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_83",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_262",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_134",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_176",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_342",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_118",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_351",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_131",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_11",5,"Voted",1,"Undergraduate","Part-time",86
+"Unit_5_177",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_9",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_67",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_183",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_3",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_312",5,"Voted",1,"Postgraduate","Full-time",86
+"Unit_5_352",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_345",5,"Voted",1,"Undergraduate","Part-time",86
+"Unit_5_173",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_208",5,"Not Voted",0,"Postgraduate","Part-time",86
+"Unit_5_93",5,"Voted",1,"Postgraduate","Part-time",86
+"Unit_5_285",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_110",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_355",5,"Not Voted",0,"Postgraduate","Full-time",86
+"Unit_5_111",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_13",5,"Not Voted",0,"Undergraduate","Full-time",86
+"Unit_5_63",5,"Not Voted",0,"Undergraduate","Part-time",86
+"Unit_5_227",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_226",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_5_239",5,"Voted",1,"Undergraduate","Full-time",86
+"Unit_6_188",6,"Voted",1,"Undergraduate","Part-time",49
+"Unit_6_155",6,"Voted",1,"Undergraduate","Part-time",49
+"Unit_6_171",6,"Not Voted",0,"Postgraduate","Full-time",49
+"Unit_6_54",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_53",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_112",6,"Not Voted",0,"Postgraduate","Full-time",49
+"Unit_6_138",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_131",6,"Voted",1,"Postgraduate","Part-time",49
+"Unit_6_52",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_6_170",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_70",6,"Voted",1,"Postgraduate","Full-time",49
+"Unit_6_41",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_3",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_6_24",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_165",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_142",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_145",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_6_23",6,"Voted",1,"Postgraduate","Full-time",49
+"Unit_6_26",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_175",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_167",6,"Not Voted",0,"Postgraduate","Full-time",49
+"Unit_6_37",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_6_32",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_49",6,"Voted",1,"Postgraduate","Full-time",49
+"Unit_6_74",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_72",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_31",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_6_136",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_122",6,"Not Voted",0,"Postgraduate","Part-time",49
+"Unit_6_19",6,"Voted",1,"Undergraduate","Part-time",49
+"Unit_6_30",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_185",6,"Voted",1,"Postgraduate","Full-time",49
+"Unit_6_33",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_99",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_6_89",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_25",6,"Voted",1,"Postgraduate","Full-time",49
+"Unit_6_4",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_162",6,"Not Voted",0,"Postgraduate","Part-time",49
+"Unit_6_6",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_172",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_6_61",6,"Voted",1,"Undergraduate","Part-time",49
+"Unit_6_78",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_201",6,"Voted",1,"Postgraduate","Full-time",49
+"Unit_6_63",6,"Not Voted",0,"Undergraduate","Full-time",49
+"Unit_6_203",6,"Voted",1,"Postgraduate","Full-time",49
+"Unit_6_91",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_6_59",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_147",6,"Voted",1,"Undergraduate","Full-time",49
+"Unit_6_127",6,"Not Voted",0,"Undergraduate","Part-time",49
+"Unit_7_309",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_305",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_316",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_19",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_38",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_114",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_34",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_272",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_269",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_202",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_35",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_92",7,"Voted",1,"Undergraduate","Full-time",80
+"Unit_7_100",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_230",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_157",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_138",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_203",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_246",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_277",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_110",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_245",7,"Voted",1,"Undergraduate","Full-time",80
+"Unit_7_249",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_161",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_40",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_32",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_150",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_142",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_47",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_62",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_325",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_238",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_8",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_36",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_176",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_98",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_163",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_58",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_321",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_3",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_315",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_118",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_225",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_130",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_330",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_273",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_234",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_169",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_295",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_192",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_129",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_282",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_296",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_24",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_303",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_123",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_284",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_85",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_261",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_184",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_49",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_185",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_59",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_220",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_44",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_102",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_42",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_30",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_274",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_80",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_124",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_206",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_311",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_7_283",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_93",7,"Not Voted",0,"Postgraduate","Part-time",80
+"Unit_7_276",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_173",7,"Not Voted",0,"Postgraduate","Full-time",80
+"Unit_7_226",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_122",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_31",7,"Not Voted",0,"Undergraduate","Full-time",80
+"Unit_7_278",7,"Not Voted",0,"Undergraduate","Part-time",80
+"Unit_8_274",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_362",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_15",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_311",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_59",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_31",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_50",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_406",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_328",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_102",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_297",8,"Voted",1,"Undergraduate","Part-time",108
+"Unit_8_155",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_340",8,"Voted",1,"Undergraduate","Full-time",108
+"Unit_8_51",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_395",8,"Voted",1,"Postgraduate","Full-time",108
+"Unit_8_351",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_358",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_173",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_251",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_345",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_72",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_42",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_236",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_152",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_172",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_359",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_220",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_115",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_315",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_380",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_327",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_294",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_323",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_318",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_231",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_268",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_49",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_424",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_69",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_401",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_48",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_164",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_70",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_167",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_354",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_332",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_14",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_421",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_425",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_118",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_75",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_392",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_11",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_400",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_111",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_258",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_429",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_189",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_245",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_371",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_260",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_355",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_407",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_413",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_393",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_232",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_166",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_61",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_13",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_85",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_422",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_272",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_218",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_116",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_446",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_405",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_215",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_125",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_441",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_95",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_379",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_273",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_41",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_214",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_264",8,"Voted",1,"Postgraduate","Part-time",108
+"Unit_8_256",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_175",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_291",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_234",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_196",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_322",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_433",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_6",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_281",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_154",8,"Not Voted",0,"Undergraduate","Part-time",108
+"Unit_8_1",8,"Not Voted",0,"Postgraduate","Part-time",108
+"Unit_8_339",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_418",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_80",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_267",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_296",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_444",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_122",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_74",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_229",8,"Not Voted",0,"Postgraduate","Full-time",108
+"Unit_8_200",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_410",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_8_176",8,"Not Voted",0,"Undergraduate","Full-time",108
+"Unit_9_86",9,"Voted",1,"Postgraduate","Full-time",65
+"Unit_9_29",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_214",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_258",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_227",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_236",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_141",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_50",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_144",9,"Not Voted",0,"Postgraduate","Full-time",65
+"Unit_9_14",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_62",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_268",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_187",9,"Voted",1,"Undergraduate","Full-time",65
+"Unit_9_125",9,"Not Voted",0,"Postgraduate","Full-time",65
+"Unit_9_242",9,"Voted",1,"Undergraduate","Full-time",65
+"Unit_9_255",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_110",9,"Voted",1,"Postgraduate","Full-time",65
+"Unit_9_235",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_184",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_181",9,"Not Voted",0,"Postgraduate","Full-time",65
+"Unit_9_253",9,"Voted",1,"Postgraduate","Full-time",65
+"Unit_9_85",9,"Voted",1,"Undergraduate","Full-time",65
+"Unit_9_234",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_8",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_2",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_165",9,"Voted",1,"Undergraduate","Full-time",65
+"Unit_9_215",9,"Voted",1,"Undergraduate","Part-time",65
+"Unit_9_27",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_129",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_259",9,"Voted",1,"Undergraduate","Full-time",65
+"Unit_9_28",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_97",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_24",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_106",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_116",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_35",9,"Voted",1,"Postgraduate","Full-time",65
+"Unit_9_12",9,"Not Voted",0,"Postgraduate","Part-time",65
+"Unit_9_77",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_238",9,"Voted",1,"Undergraduate","Full-time",65
+"Unit_9_4",9,"Not Voted",0,"Postgraduate","Part-time",65
+"Unit_9_249",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_260",9,"Not Voted",0,"Postgraduate","Full-time",65
+"Unit_9_229",9,"Not Voted",0,"Postgraduate","Part-time",65
+"Unit_9_126",9,"Not Voted",0,"Postgraduate","Part-time",65
+"Unit_9_9",9,"Voted",1,"Postgraduate","Full-time",65
+"Unit_9_237",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_138",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_52",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_151",9,"Voted",1,"Postgraduate","Full-time",65
+"Unit_9_251",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_46",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_189",9,"Voted",1,"Undergraduate","Full-time",65
+"Unit_9_252",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_218",9,"Not Voted",0,"Postgraduate","Full-time",65
+"Unit_9_167",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_113",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_222",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_168",9,"Voted",1,"Undergraduate","Full-time",65
+"Unit_9_79",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_57",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_63",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_69",9,"Not Voted",0,"Undergraduate","Part-time",65
+"Unit_9_68",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_162",9,"Not Voted",0,"Undergraduate","Full-time",65
+"Unit_9_158",9,"Voted",1,"Postgraduate","Full-time",65
+"Unit_10_298",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_39",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_201",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_107",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_199",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_109",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_212",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_86",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_85",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_11",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_273",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_328",10,"Not Voted",0,"Undergraduate","Part-time",88
+"Unit_10_324",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_342",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_106",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_191",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_26",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_265",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_226",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_3",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_119",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_43",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_326",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_275",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_157",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_135",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_230",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_220",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_101",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_286",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_327",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_35",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_57",10,"Not Voted",0,"Undergraduate","Part-time",88
+"Unit_10_188",10,"Voted",1,"Undergraduate","Full-time",88
+"Unit_10_40",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_29",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_155",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_75",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_125",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_305",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_210",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_24",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_139",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_278",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_240",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_245",10,"Not Voted",0,"Postgraduate","Part-time",88
+"Unit_10_234",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_17",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_67",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_32",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_214",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_203",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_183",10,"Not Voted",0,"Undergraduate","Part-time",88
+"Unit_10_82",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_162",10,"Voted",1,"Undergraduate","Full-time",88
+"Unit_10_312",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_297",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_231",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_351",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_171",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_46",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_255",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_137",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_190",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_22",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_246",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_216",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_248",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_263",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_271",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_5",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_69",10,"Not Voted",0,"Undergraduate","Part-time",88
+"Unit_10_340",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_163",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_153",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_194",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_92",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_341",10,"Not Voted",0,"Postgraduate","Part-time",88
+"Unit_10_33",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_204",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_307",10,"Not Voted",0,"Postgraduate","Full-time",88
+"Unit_10_62",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_154",10,"Not Voted",0,"Undergraduate","Part-time",88
+"Unit_10_282",10,"Not Voted",0,"Undergraduate","Part-time",88
+"Unit_10_129",10,"Voted",1,"Postgraduate","Full-time",88
+"Unit_10_353",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_313",10,"Not Voted",0,"Undergraduate","Full-time",88
+"Unit_10_159",10,"Voted",1,"Undergraduate","Full-time",88
+"Unit_11_185",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_151",11,"Not Voted",0,"Postgraduate","Part-time",47
+"Unit_11_173",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_26",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_13",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_17",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_139",11,"Not Voted",0,"Postgraduate","Part-time",47
+"Unit_11_65",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_158",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_113",11,"Not Voted",0,"Postgraduate","Part-time",47
+"Unit_11_145",11,"Voted",1,"Postgraduate","Full-time",47
+"Unit_11_24",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_33",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_44",11,"Not Voted",0,"Postgraduate","Part-time",47
+"Unit_11_142",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_150",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_186",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_67",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_53",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_181",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_161",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_168",11,"Not Voted",0,"Postgraduate","Part-time",47
+"Unit_11_178",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_49",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_148",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_88",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_22",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_7",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_123",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_5",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_3",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_143",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_11_98",11,"Voted",1,"Undergraduate","Full-time",47
+"Unit_11_95",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_104",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_189",11,"Voted",1,"Postgraduate","Full-time",47
+"Unit_11_30",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_78",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_101",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_47",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_133",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_118",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_146",11,"Not Voted",0,"Postgraduate","Part-time",47
+"Unit_11_165",11,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_11_84",11,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_11_80",11,"Not Voted",0,"Postgraduate","Part-time",47
+"Unit_11_174",11,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_12_288",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_313",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_356",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_141",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_191",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_302",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_242",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_130",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_251",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_363",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_32",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_164",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_27",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_115",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_378",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_269",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_125",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_120",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_208",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_321",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_121",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_89",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_359",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_367",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_68",12,"Voted",1,"Postgraduate","Part-time",96
+"Unit_12_336",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_291",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_395",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_177",12,"Voted",1,"Postgraduate","Part-time",96
+"Unit_12_97",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_293",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_364",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_304",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_109",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_312",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_347",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_267",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_392",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_124",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_9",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_292",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_37",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_71",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_285",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_223",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_305",12,"Voted",1,"Undergraduate","Full-time",96
+"Unit_12_224",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_7",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_88",12,"Voted",1,"Undergraduate","Part-time",96
+"Unit_12_215",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_80",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_60",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_329",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_316",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_323",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_183",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_311",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_142",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_30",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_206",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_219",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_81",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_182",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_95",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_253",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_72",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_241",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_281",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_362",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_62",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_301",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_42",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_387",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_358",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_368",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_140",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_354",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_382",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_168",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_197",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_92",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_54",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_171",12,"Not Voted",0,"Postgraduate","Full-time",96
+"Unit_12_122",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_93",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_63",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_185",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_334",12,"Voted",1,"Postgraduate","Part-time",96
+"Unit_12_67",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_337",12,"Not Voted",0,"Undergraduate","Part-time",96
+"Unit_12_349",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_138",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_165",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_283",12,"Not Voted",0,"Undergraduate","Full-time",96
+"Unit_12_143",12,"Not Voted",0,"Postgraduate","Part-time",96
+"Unit_12_151",12,"Voted",1,"Undergraduate","Full-time",96
+"Unit_13_26",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_14",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_54",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_89",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_203",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_205",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_171",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_129",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_212",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_184",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_219",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_162",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_260",13,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_13_17",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_96",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_123",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_25",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_236",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_84",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_194",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_64",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_70",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_210",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_10",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_147",13,"Not Voted",0,"Postgraduate","Full-time",63
+"Unit_13_233",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_78",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_153",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_16",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_166",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_107",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_231",13,"Voted",1,"Undergraduate","Part-time",63
+"Unit_13_7",13,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_13_97",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_65",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_185",13,"Voted",1,"Undergraduate","Part-time",63
+"Unit_13_119",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_217",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_121",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_33",13,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_13_105",13,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_13_8",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_86",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_182",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_28",13,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_13_67",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_27",13,"Voted",1,"Postgraduate","Full-time",63
+"Unit_13_177",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_145",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_261",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_141",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_6",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_136",13,"Voted",1,"Undergraduate","Part-time",63
+"Unit_13_155",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_113",13,"Voted",1,"Postgraduate","Part-time",63
+"Unit_13_163",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_93",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_160",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_15",13,"Voted",1,"Postgraduate","Part-time",63
+"Unit_13_48",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_213",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_12",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_13_39",13,"Voted",1,"Undergraduate","Full-time",63
+"Unit_14_288",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_163",14,"Voted",1,"Undergraduate","Full-time",107
+"Unit_14_160",14,"Voted",1,"Postgraduate","Part-time",107
+"Unit_14_393",14,"Voted",1,"Undergraduate","Full-time",107
+"Unit_14_396",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_391",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_70",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_424",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_295",14,"Voted",1,"Postgraduate","Full-time",107
+"Unit_14_322",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_117",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_90",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_387",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_342",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_351",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_244",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_370",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_407",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_430",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_254",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_353",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_343",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_52",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_124",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_399",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_171",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_305",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_375",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_247",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_200",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_268",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_138",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_190",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_397",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_318",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_109",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_299",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_294",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_243",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_114",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_55",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_274",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_209",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_8",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_330",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_197",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_385",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_45",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_228",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_103",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_33",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_314",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_176",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_158",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_325",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_348",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_98",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_84",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_242",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_418",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_293",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_59",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_427",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_141",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_16",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_108",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_439",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_116",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_187",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_324",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_405",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_390",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_73",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_249",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_412",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_394",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_246",14,"Voted",1,"Undergraduate","Full-time",107
+"Unit_14_191",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_42",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_162",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_25",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_62",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_56",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_58",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_395",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_306",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_248",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_174",14,"Voted",1,"Postgraduate","Full-time",107
+"Unit_14_69",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_320",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_26",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_257",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_270",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_155",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_40",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_164",14,"Not Voted",0,"Postgraduate","Full-time",107
+"Unit_14_438",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_231",14,"Voted",1,"Postgraduate","Full-time",107
+"Unit_14_178",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_386",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_419",14,"Not Voted",0,"Postgraduate","Part-time",107
+"Unit_14_416",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_193",14,"Voted",1,"Postgraduate","Full-time",107
+"Unit_14_312",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_326",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_14_437",14,"Not Voted",0,"Undergraduate","Part-time",107
+"Unit_14_207",14,"Not Voted",0,"Undergraduate","Full-time",107
+"Unit_15_106",15,"Not Voted",0,"Postgraduate","Part-time",58
+"Unit_15_214",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_104",15,"Voted",1,"Postgraduate","Full-time",58
+"Unit_15_160",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_135",15,"Voted",1,"Undergraduate","Full-time",58
+"Unit_15_219",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_221",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_128",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_115",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_121",15,"Not Voted",0,"Postgraduate","Part-time",58
+"Unit_15_35",15,"Not Voted",0,"Postgraduate","Part-time",58
+"Unit_15_194",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_179",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_81",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_133",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_101",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_186",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_22",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_170",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_211",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_201",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_153",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_212",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_192",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_191",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_225",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_37",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_85",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_96",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_20",15,"Not Voted",0,"Postgraduate","Part-time",58
+"Unit_15_51",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_24",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_196",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_123",15,"Not Voted",0,"Postgraduate","Part-time",58
+"Unit_15_105",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_29",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_138",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_215",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_167",15,"Voted",1,"Undergraduate","Full-time",58
+"Unit_15_139",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_34",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_70",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_230",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_161",15,"Not Voted",0,"Postgraduate","Part-time",58
+"Unit_15_234",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_59",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_46",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_27",15,"Not Voted",0,"Undergraduate","Part-time",58
+"Unit_15_84",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_112",15,"Not Voted",0,"Postgraduate","Part-time",58
+"Unit_15_103",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_158",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_222",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_100",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_26",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_14",15,"Not Voted",0,"Undergraduate","Full-time",58
+"Unit_15_12",15,"Not Voted",0,"Postgraduate","Full-time",58
+"Unit_15_16",15,"Not Voted",0,"Postgraduate","Part-time",58
+"Unit_16_204",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_181",16,"Not Voted",0,"Postgraduate","Full-time",72
+"Unit_16_14",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_146",16,"Not Voted",0,"Postgraduate","Part-time",72
+"Unit_16_30",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_12",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_72",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_10",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_245",16,"Voted",1,"Postgraduate","Part-time",72
+"Unit_16_62",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_290",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_220",16,"Not Voted",0,"Postgraduate","Part-time",72
+"Unit_16_22",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_16",16,"Voted",1,"Postgraduate","Full-time",72
+"Unit_16_103",16,"Not Voted",0,"Postgraduate","Full-time",72
+"Unit_16_123",16,"Voted",1,"Postgraduate","Full-time",72
+"Unit_16_127",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_13",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_85",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_183",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_239",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_115",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_250",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_11",16,"Voted",1,"Undergraduate","Full-time",72
+"Unit_16_9",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_194",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_192",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_39",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_139",16,"Voted",1,"Undergraduate","Full-time",72
+"Unit_16_135",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_281",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_288",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_113",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_193",16,"Voted",1,"Undergraduate","Full-time",72
+"Unit_16_48",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_185",16,"Voted",1,"Undergraduate","Full-time",72
+"Unit_16_293",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_149",16,"Not Voted",0,"Postgraduate","Full-time",72
+"Unit_16_283",16,"Not Voted",0,"Postgraduate","Full-time",72
+"Unit_16_104",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_44",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_244",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_298",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_291",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_141",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_122",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_52",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_47",16,"Voted",1,"Undergraduate","Full-time",72
+"Unit_16_35",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_87",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_202",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_180",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_299",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_3",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_188",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_235",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_31",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_151",16,"Voted",1,"Undergraduate","Full-time",72
+"Unit_16_105",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_168",16,"Not Voted",0,"Postgraduate","Full-time",72
+"Unit_16_197",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_53",16,"Voted",1,"Postgraduate","Full-time",72
+"Unit_16_161",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_237",16,"Not Voted",0,"Postgraduate","Full-time",72
+"Unit_16_217",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_112",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_238",16,"Not Voted",0,"Undergraduate","Part-time",72
+"Unit_16_226",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_190",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_262",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_16_68",16,"Voted",1,"Undergraduate","Full-time",72
+"Unit_16_158",16,"Not Voted",0,"Undergraduate","Full-time",72
+"Unit_17_98",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_31",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_306",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_74",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_12",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_137",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_36",17,"Voted",1,"Undergraduate","Full-time",85
+"Unit_17_268",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_185",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_138",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_94",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_142",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_299",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_274",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_87",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_116",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_82",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_81",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_54",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_216",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_298",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_202",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_194",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_32",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_182",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_102",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_136",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_289",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_88",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_265",17,"Not Voted",0,"Postgraduate","Part-time",85
+"Unit_17_151",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_153",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_83",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_62",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_325",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_52",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_159",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_34",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_314",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_218",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_302",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_244",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_350",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_213",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_109",17,"Voted",1,"Postgraduate","Full-time",85
+"Unit_17_7",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_3",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_354",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_318",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_287",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_303",17,"Voted",1,"Postgraduate","Part-time",85
+"Unit_17_168",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_193",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_337",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_352",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_211",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_195",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_171",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_105",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_132",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_129",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_209",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_158",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_312",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_245",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_187",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_234",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_271",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_166",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_1",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_279",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_199",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_164",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_221",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_181",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_128",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_80",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_236",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_235",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_222",17,"Not Voted",0,"Undergraduate","Part-time",85
+"Unit_17_242",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_18",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_5",17,"Not Voted",0,"Postgraduate","Full-time",85
+"Unit_17_251",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_17_89",17,"Not Voted",0,"Undergraduate","Full-time",85
+"Unit_18_149",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_146",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_114",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_113",18,"Voted",1,"Postgraduate","Part-time",47
+"Unit_18_52",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_124",18,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_18_122",18,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_18_167",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_115",18,"Voted",1,"Postgraduate","Part-time",47
+"Unit_18_84",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_80",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_82",18,"Voted",1,"Postgraduate","Full-time",47
+"Unit_18_7",18,"Voted",1,"Postgraduate","Full-time",47
+"Unit_18_85",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_168",18,"Voted",1,"Postgraduate","Full-time",47
+"Unit_18_41",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_36",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_177",18,"Voted",1,"Postgraduate","Part-time",47
+"Unit_18_42",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_76",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_86",18,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_18_11",18,"Voted",1,"Postgraduate","Full-time",47
+"Unit_18_181",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_123",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_185",18,"Voted",1,"Postgraduate","Part-time",47
+"Unit_18_180",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_107",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_159",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_99",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_186",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_92",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_56",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_31",18,"Voted",1,"Postgraduate","Full-time",47
+"Unit_18_95",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_47",18,"Voted",1,"Postgraduate","Full-time",47
+"Unit_18_40",18,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_18_128",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_55",18,"Voted",1,"Postgraduate","Full-time",47
+"Unit_18_4",18,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_18_110",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_67",18,"Voted",1,"Undergraduate","Part-time",47
+"Unit_18_10",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_178",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_6",18,"Voted",1,"Postgraduate","Part-time",47
+"Unit_18_148",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_18_187",18,"Voted",1,"Postgraduate","Part-time",47
+"Unit_18_54",18,"Voted",1,"Undergraduate","Full-time",47
+"Unit_19_86",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_91",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_201",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_135",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_134",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_287",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_171",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_181",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_262",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_113",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_233",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_216",19,"Not Voted",0,"Undergraduate","Part-time",69
+"Unit_19_101",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_259",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_35",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_88",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_54",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_167",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_39",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_20",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_274",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_45",19,"Voted",1,"Undergraduate","Full-time",69
+"Unit_19_30",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_52",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_145",19,"Not Voted",0,"Undergraduate","Part-time",69
+"Unit_19_130",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_48",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_105",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_65",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_137",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_26",19,"Voted",1,"Undergraduate","Full-time",69
+"Unit_19_207",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_159",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_4",19,"Voted",1,"Undergraduate","Full-time",69
+"Unit_19_71",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_33",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_109",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_180",19,"Not Voted",0,"Undergraduate","Part-time",69
+"Unit_19_61",19,"Not Voted",0,"Undergraduate","Part-time",69
+"Unit_19_112",19,"Not Voted",0,"Undergraduate","Part-time",69
+"Unit_19_93",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_117",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_254",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_10",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_213",19,"Voted",1,"Undergraduate","Full-time",69
+"Unit_19_173",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_251",19,"Voted",1,"Undergraduate","Full-time",69
+"Unit_19_288",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_242",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_3",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_75",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_257",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_132",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_29",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_81",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_260",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_78",19,"Voted",1,"Postgraduate","Full-time",69
+"Unit_19_261",19,"Voted",1,"Postgraduate","Full-time",69
+"Unit_19_64",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_220",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_271",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_248",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_111",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_174",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_7",19,"Not Voted",0,"Postgraduate","Full-time",69
+"Unit_19_247",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_250",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_72",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_19_235",19,"Not Voted",0,"Undergraduate","Full-time",69
+"Unit_20_179",20,"Not Voted",0,"Postgraduate","Part-time",48
+"Unit_20_132",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_121",20,"Not Voted",0,"Postgraduate","Part-time",48
+"Unit_20_171",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_148",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_64",20,"Voted",1,"Postgraduate","Full-time",48
+"Unit_20_44",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_182",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_65",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_122",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_20_40",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_20_94",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_113",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_20_125",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_6",20,"Voted",1,"Undergraduate","Full-time",48
+"Unit_20_120",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_155",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_186",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_168",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_141",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_200",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_58",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_30",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_139",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_20_169",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_20_195",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_90",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_198",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_19",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_10",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_192",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_161",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_105",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_123",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_20_62",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_110",20,"Voted",1,"Postgraduate","Full-time",48
+"Unit_20_75",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_199",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_88",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_144",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_140",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_53",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_20_106",20,"Not Voted",0,"Postgraduate","Full-time",48
+"Unit_20_16",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_5",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_51",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_20_197",20,"Not Voted",0,"Undergraduate","Full-time",48
+"Unit_20_60",20,"Not Voted",0,"Undergraduate","Part-time",48
+"Unit_21_261",21,"Voted",1,"Postgraduate","Full-time",71
+"Unit_21_177",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_120",21,"Not Voted",0,"Postgraduate","Full-time",71
+"Unit_21_244",21,"Voted",1,"Postgraduate","Part-time",71
+"Unit_21_99",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_86",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_197",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_256",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_183",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_222",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_294",21,"Voted",1,"Postgraduate","Full-time",71
+"Unit_21_24",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_128",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_192",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_131",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_28",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_171",21,"Not Voted",0,"Postgraduate","Full-time",71
+"Unit_21_71",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_140",21,"Not Voted",0,"Postgraduate","Full-time",71
+"Unit_21_98",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_49",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_276",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_272",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_16",21,"Voted",1,"Postgraduate","Full-time",71
+"Unit_21_77",21,"Not Voted",0,"Postgraduate","Full-time",71
+"Unit_21_13",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_25",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_153",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_18",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_10",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_79",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_117",21,"Voted",1,"Postgraduate","Part-time",71
+"Unit_21_143",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_216",21,"Voted",1,"Undergraduate","Part-time",71
+"Unit_21_259",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_175",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_14",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_284",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_89",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_107",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_248",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_68",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_44",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_275",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_156",21,"Voted",1,"Undergraduate","Part-time",71
+"Unit_21_266",21,"Voted",1,"Undergraduate","Part-time",71
+"Unit_21_195",21,"Voted",1,"Undergraduate","Part-time",71
+"Unit_21_8",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_270",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_154",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_6",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_142",21,"Voted",1,"Postgraduate","Full-time",71
+"Unit_21_198",21,"Voted",1,"Postgraduate","Part-time",71
+"Unit_21_134",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_54",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_123",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_82",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_75",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_246",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_32",21,"Voted",1,"Postgraduate","Part-time",71
+"Unit_21_4",21,"Not Voted",0,"Postgraduate","Full-time",71
+"Unit_21_46",21,"Not Voted",0,"Postgraduate","Full-time",71
+"Unit_21_21",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_231",21,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_21_194",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_78",21,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_21_287",21,"Voted",1,"Undergraduate","Part-time",71
+"Unit_21_213",21,"Voted",1,"Undergraduate","Full-time",71
+"Unit_21_42",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_251",21,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_21_180",21,"Voted",1,"Undergraduate","Part-time",71
+"Unit_22_195",22,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_22_103",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_279",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_180",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_136",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_264",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_63",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_150",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_205",22,"Voted",1,"Postgraduate","Full-time",71
+"Unit_22_179",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_187",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_89",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_141",22,"Voted",1,"Postgraduate","Part-time",71
+"Unit_22_174",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_151",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_79",22,"Voted",1,"Undergraduate","Part-time",71
+"Unit_22_287",22,"Voted",1,"Postgraduate","Part-time",71
+"Unit_22_226",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_204",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_294",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_48",22,"Voted",1,"Undergraduate","Part-time",71
+"Unit_22_8",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_69",22,"Voted",1,"Postgraduate","Full-time",71
+"Unit_22_175",22,"Voted",1,"Postgraduate","Full-time",71
+"Unit_22_122",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_97",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_172",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_33",22,"Voted",1,"Undergraduate","Part-time",71
+"Unit_22_260",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_292",22,"Voted",1,"Undergraduate","Part-time",71
+"Unit_22_16",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_208",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_283",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_110",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_192",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_84",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_211",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_93",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_166",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_41",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_6",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_213",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_197",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_62",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_270",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_244",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_165",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_256",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_95",22,"Voted",1,"Undergraduate","Part-time",71
+"Unit_22_247",22,"Voted",1,"Postgraduate","Full-time",71
+"Unit_22_11",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_161",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_28",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_71",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_68",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_144",22,"Not Voted",0,"Postgraduate","Part-time",71
+"Unit_22_114",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_249",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_22_178",22,"Voted",1,"Postgraduate","Full-time",71
+"Unit_22_52",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_271",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_92",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_131",22,"Voted",1,"Undergraduate","Full-time",71
+"Unit_22_116",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_5",22,"Voted",1,"Undergraduate","Part-time",71
+"Unit_22_266",22,"Voted",1,"Undergraduate","Part-time",71
+"Unit_22_281",22,"Voted",1,"Postgraduate","Part-time",71
+"Unit_22_124",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_291",22,"Voted",1,"Postgraduate","Full-time",71
+"Unit_22_198",22,"Not Voted",0,"Undergraduate","Part-time",71
+"Unit_22_38",22,"Not Voted",0,"Undergraduate","Full-time",71
+"Unit_23_41",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_65",23,"Voted",1,"Undergraduate","Part-time",63
+"Unit_23_17",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_139",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_48",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_205",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_130",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_211",23,"Voted",1,"Postgraduate","Part-time",63
+"Unit_23_259",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_8",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_248",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_180",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_229",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_234",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_4",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_115",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_91",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_67",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_149",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_49",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_224",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_56",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_195",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_23",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_188",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_184",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_107",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_122",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_108",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_168",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_31",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_220",23,"Not Voted",0,"Postgraduate","Full-time",63
+"Unit_23_15",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_34",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_159",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_7",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_164",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_156",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_86",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_90",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_127",23,"Voted",1,"Postgraduate","Full-time",63
+"Unit_23_258",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_138",23,"Not Voted",0,"Postgraduate","Full-time",63
+"Unit_23_25",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_249",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_63",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_263",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_142",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_148",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_186",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_252",23,"Not Voted",0,"Postgraduate","Full-time",63
+"Unit_23_155",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_196",23,"Not Voted",0,"Postgraduate","Full-time",63
+"Unit_23_110",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_182",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_222",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_152",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_32",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_185",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_214",23,"Not Voted",0,"Postgraduate","Part-time",63
+"Unit_23_89",23,"Not Voted",0,"Undergraduate","Part-time",63
+"Unit_23_218",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_23_231",23,"Not Voted",0,"Undergraduate","Full-time",63
+"Unit_24_163",24,"Not Voted",0,"Undergraduate","Part-time",51
+"Unit_24_128",24,"Not Voted",0,"Postgraduate","Part-time",51
+"Unit_24_105",24,"Not Voted",0,"Undergraduate","Part-time",51
+"Unit_24_109",24,"Voted",1,"Postgraduate","Part-time",51
+"Unit_24_122",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_124",24,"Voted",1,"Postgraduate","Full-time",51
+"Unit_24_209",24,"Not Voted",0,"Postgraduate","Part-time",51
+"Unit_24_49",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_169",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_131",24,"Voted",1,"Undergraduate","Full-time",51
+"Unit_24_200",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_48",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_91",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_139",24,"Voted",1,"Undergraduate","Full-time",51
+"Unit_24_35",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_112",24,"Not Voted",0,"Undergraduate","Part-time",51
+"Unit_24_196",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_36",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_76",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_178",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_95",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_165",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_182",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_23",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_120",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_140",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_1",24,"Not Voted",0,"Undergraduate","Part-time",51
+"Unit_24_40",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_183",24,"Voted",1,"Undergraduate","Part-time",51
+"Unit_24_9",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_70",24,"Not Voted",0,"Undergraduate","Part-time",51
+"Unit_24_62",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_145",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_65",24,"Voted",1,"Undergraduate","Full-time",51
+"Unit_24_74",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_58",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_134",24,"Voted",1,"Postgraduate","Full-time",51
+"Unit_24_78",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_186",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_193",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_118",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_8",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_144",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_24_151",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_27",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_175",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_171",24,"Voted",1,"Undergraduate","Full-time",51
+"Unit_24_88",24,"Not Voted",0,"Undergraduate","Full-time",51
+"Unit_24_20",24,"Not Voted",0,"Undergraduate","Part-time",51
+"Unit_24_67",24,"Voted",1,"Undergraduate","Full-time",51
+"Unit_24_26",24,"Not Voted",0,"Postgraduate","Full-time",51
+"Unit_25_133",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_301",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_216",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_239",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_293",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_21",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_159",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_140",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_191",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_182",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_200",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_202",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_5",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_116",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_16",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_87",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_208",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_24",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_109",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_183",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_102",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_297",25,"Voted",1,"Postgraduate","Part-time",76
+"Unit_25_91",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_50",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_153",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_241",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_288",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_289",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_201",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_73",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_269",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_142",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_64",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_275",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_157",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_80",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_20",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_19",25,"Voted",1,"Undergraduate","Full-time",76
+"Unit_25_152",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_149",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_252",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_69",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_41",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_258",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_276",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_11",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_278",25,"Voted",1,"Undergraduate","Full-time",76
+"Unit_25_219",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_292",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_226",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_179",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_205",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_161",25,"Voted",1,"Undergraduate","Full-time",76
+"Unit_25_188",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_271",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_34",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_141",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_193",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_312",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_96",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_294",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_207",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_235",25,"Voted",1,"Postgraduate","Part-time",76
+"Unit_25_280",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_129",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_291",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_256",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_58",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_251",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_25_23",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_265",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_89",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_236",25,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_25_85",25,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_25_97",25,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_25_266",25,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_26_198",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_99",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_199",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_15",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_136",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_152",26,"Not Voted",0,"Postgraduate","Part-time",60
+"Unit_26_97",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_142",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_36",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_132",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_22",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_187",26,"Voted",1,"Undergraduate","Part-time",60
+"Unit_26_235",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_153",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_81",26,"Voted",1,"Undergraduate","Full-time",60
+"Unit_26_33",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_43",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_135",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_56",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_147",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_234",26,"Voted",1,"Postgraduate","Part-time",60
+"Unit_26_38",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_5",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_1",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_193",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_114",26,"Voted",1,"Undergraduate","Full-time",60
+"Unit_26_189",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_77",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_127",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_119",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_208",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_180",26,"Not Voted",0,"Postgraduate","Part-time",60
+"Unit_26_86",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_240",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_128",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_55",26,"Not Voted",0,"Postgraduate","Part-time",60
+"Unit_26_62",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_250",26,"Voted",1,"Undergraduate","Full-time",60
+"Unit_26_17",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_228",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_215",26,"Not Voted",0,"Postgraduate","Part-time",60
+"Unit_26_26",26,"Voted",1,"Undergraduate","Full-time",60
+"Unit_26_11",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_216",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_58",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_108",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_84",26,"Voted",1,"Undergraduate","Part-time",60
+"Unit_26_111",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_223",26,"Not Voted",0,"Postgraduate","Full-time",60
+"Unit_26_109",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_105",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_120",26,"Not Voted",0,"Postgraduate","Full-time",60
+"Unit_26_211",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_229",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_218",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_154",26,"Voted",1,"Undergraduate","Full-time",60
+"Unit_26_165",26,"Not Voted",0,"Undergraduate","Full-time",60
+"Unit_26_71",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_45",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_26_126",26,"Not Voted",0,"Undergraduate","Part-time",60
+"Unit_27_156",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_296",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_111",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_159",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_307",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_207",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_210",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_310",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_35",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_178",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_204",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_164",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_11",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_229",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_80",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_145",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_108",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_152",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_25",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_83",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_257",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_144",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_173",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_38",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_219",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_161",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_147",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_238",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_81",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_259",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_189",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_14",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_34",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_86",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_5",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_133",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_266",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_13",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_290",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_291",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_244",27,"Voted",1,"Postgraduate","Full-time",76
+"Unit_27_40",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_188",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_9",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_226",27,"Voted",1,"Postgraduate","Full-time",76
+"Unit_27_128",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_50",27,"Voted",1,"Postgraduate","Full-time",76
+"Unit_27_6",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_239",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_263",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_140",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_280",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_172",27,"Voted",1,"Undergraduate","Full-time",76
+"Unit_27_122",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_232",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_62",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_88",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_69",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_180",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_271",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_270",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_279",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_30",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_218",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_269",27,"Voted",1,"Postgraduate","Full-time",76
+"Unit_27_136",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_60",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_97",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_87",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_3",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_143",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_27_241",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_237",27,"Not Voted",0,"Undergraduate","Full-time",76
+"Unit_27_54",27,"Not Voted",0,"Postgraduate","Part-time",76
+"Unit_27_283",27,"Not Voted",0,"Postgraduate","Full-time",76
+"Unit_27_125",27,"Not Voted",0,"Undergraduate","Part-time",76
+"Unit_28_220",28,"Voted",1,"Undergraduate","Full-time",57
+"Unit_28_209",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_146",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_125",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_168",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_41",28,"Voted",1,"Postgraduate","Full-time",57
+"Unit_28_25",28,"Voted",1,"Undergraduate","Full-time",57
+"Unit_28_112",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_54",28,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_28_140",28,"Voted",1,"Undergraduate","Full-time",57
+"Unit_28_218",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_4",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_160",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_78",28,"Not Voted",0,"Postgraduate","Part-time",57
+"Unit_28_223",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_164",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_150",28,"Voted",1,"Undergraduate","Full-time",57
+"Unit_28_141",28,"Not Voted",0,"Postgraduate","Part-time",57
+"Unit_28_173",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_159",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_212",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_136",28,"Voted",1,"Undergraduate","Full-time",57
+"Unit_28_42",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_118",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_154",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_68",28,"Not Voted",0,"Postgraduate","Part-time",57
+"Unit_28_14",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_121",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_138",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_75",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_162",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_60",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_8",28,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_28_204",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_52",28,"Voted",1,"Undergraduate","Part-time",57
+"Unit_28_63",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_181",28,"Voted",1,"Undergraduate","Full-time",57
+"Unit_28_155",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_186",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_231",28,"Voted",1,"Undergraduate","Part-time",57
+"Unit_28_137",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_198",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_180",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_28_114",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_22",28,"Not Voted",0,"Postgraduate","Part-time",57
+"Unit_28_226",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_236",28,"Not Voted",0,"Postgraduate","Full-time",57
+"Unit_28_6",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_142",28,"Voted",1,"Undergraduate","Full-time",57
+"Unit_28_2",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_108",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_224",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_89",28,"Voted",1,"Postgraduate","Full-time",57
+"Unit_28_143",28,"Not Voted",0,"Postgraduate","Part-time",57
+"Unit_28_208",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_24",28,"Not Voted",0,"Undergraduate","Full-time",57
+"Unit_28_170",28,"Not Voted",0,"Undergraduate","Part-time",57
+"Unit_29_59",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_28",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_30",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_147",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_87",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_84",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_39",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_184",29,"Not Voted",0,"Postgraduate","Part-time",47
+"Unit_29_192",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_150",29,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_29_1",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_110",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_164",29,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_29_58",29,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_29_195",29,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_29_68",29,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_29_143",29,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_29_115",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_122",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_77",29,"Voted",1,"Postgraduate","Part-time",47
+"Unit_29_105",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_119",29,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_29_170",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_5",29,"Voted",1,"Postgraduate","Part-time",47
+"Unit_29_45",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_47",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_49",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_13",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_193",29,"Voted",1,"Undergraduate","Part-time",47
+"Unit_29_97",29,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_29_76",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_165",29,"Not Voted",0,"Postgraduate","Full-time",47
+"Unit_29_166",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_62",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_10",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_142",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_108",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_129",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_162",29,"Not Voted",0,"Undergraduate","Part-time",47
+"Unit_29_7",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_63",29,"Not Voted",0,"Undergraduate","Full-time",47
+"Unit_29_172",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_160",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_25",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_36",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_29_134",29,"Voted",1,"Postgraduate","Full-time",47
+"Unit_29_144",29,"Voted",1,"Undergraduate","Full-time",47
+"Unit_30_346",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_253",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_35",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_146",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_161",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_292",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_339",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_256",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_222",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_131",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_7",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_360",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_155",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_213",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_44",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_191",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_284",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_172",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_83",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_70",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_119",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_198",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_276",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_304",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_82",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_1",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_237",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_247",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_115",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_207",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_205",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_183",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_118",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_262",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_69",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_330",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_307",30,"Voted",1,"Postgraduate","Full-time",89
+"Unit_30_12",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_80",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_259",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_333",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_97",30,"Voted",1,"Postgraduate","Full-time",89
+"Unit_30_194",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_174",30,"Voted",1,"Postgraduate","Full-time",89
+"Unit_30_226",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_19",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_47",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_348",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_79",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_358",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_317",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_314",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_36",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_233",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_109",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_45",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_117",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_169",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_231",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_335",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_156",30,"Voted",1,"Postgraduate","Full-time",89
+"Unit_30_315",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_55",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_157",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_278",30,"Voted",1,"Postgraduate","Full-time",89
+"Unit_30_217",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_251",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_138",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_114",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_250",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_164",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_63",30,"Not Voted",0,"Postgraduate","Full-time",89
+"Unit_30_87",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_95",30,"Voted",1,"Postgraduate","Full-time",89
+"Unit_30_189",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_365",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_32",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_28",30,"Not Voted",0,"Postgraduate","Full-time",89
+"Unit_30_239",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_283",30,"Not Voted",0,"Undergraduate","Full-time",89
+"Unit_30_73",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_60",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_9",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_241",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_270",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_30_316",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_148",30,"Voted",1,"Undergraduate","Part-time",89
+"Unit_30_143",30,"Voted",1,"Undergraduate","Full-time",89
+"Unit_30_371",30,"Not Voted",0,"Undergraduate","Part-time",89
+"Unit_31_337",31,"Not Voted",0,"Postgraduate","Part-time",114
+"Unit_31_144",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_215",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_378",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_413",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_4",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_374",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_99",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_238",31,"Voted",1,"Undergraduate","Full-time",114
+"Unit_31_107",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_29",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_290",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_70",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_148",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_139",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_36",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_138",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_226",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_78",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_395",31,"Not Voted",0,"Postgraduate","Part-time",114
+"Unit_31_319",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_154",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_260",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_171",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_317",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_336",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_42",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_146",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_435",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_126",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_5",31,"Not Voted",0,"Postgraduate","Part-time",114
+"Unit_31_206",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_61",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_443",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_258",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_157",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_207",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_23",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_424",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_390",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_286",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_270",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_291",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_358",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_197",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_437",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_455",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_285",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_307",31,"Not Voted",0,"Postgraduate","Part-time",114
+"Unit_31_246",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_222",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_241",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_65",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_204",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_6",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_355",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_399",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_333",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_28",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_48",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_368",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_227",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_156",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_293",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_383",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_331",31,"Not Voted",0,"Postgraduate","Part-time",114
+"Unit_31_137",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_22",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_240",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_14",31,"Not Voted",0,"Postgraduate","Part-time",114
+"Unit_31_96",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_257",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_117",31,"Voted",1,"Postgraduate","Full-time",114
+"Unit_31_26",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_196",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_398",31,"Not Voted",0,"Postgraduate","Part-time",114
+"Unit_31_95",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_37",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_195",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_66",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_142",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_438",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_462",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_91",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_389",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_46",31,"Not Voted",0,"Postgraduate","Part-time",114
+"Unit_31_25",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_303",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_124",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_372",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_122",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_371",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_436",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_353",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_272",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_321",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_229",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_292",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_252",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_71",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_168",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_332",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_93",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_13",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_432",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_275",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_410",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_80",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_35",31,"Not Voted",0,"Postgraduate","Full-time",114
+"Unit_31_106",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_84",31,"Not Voted",0,"Undergraduate","Part-time",114
+"Unit_31_178",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_31_327",31,"Voted",1,"Undergraduate","Full-time",114
+"Unit_31_98",31,"Not Voted",0,"Undergraduate","Full-time",114
+"Unit_32_8",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_184",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_224",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_150",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_106",32,"Not Voted",0,"Postgraduate","Part-time",59
+"Unit_32_96",32,"Not Voted",0,"Postgraduate","Part-time",59
+"Unit_32_235",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_125",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_48",32,"Not Voted",0,"Postgraduate","Part-time",59
+"Unit_32_203",32,"Voted",1,"Undergraduate","Full-time",59
+"Unit_32_86",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_45",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_109",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_103",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_207",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_243",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_159",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_181",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_78",32,"Not Voted",0,"Postgraduate","Full-time",59
+"Unit_32_100",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_39",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_160",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_156",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_221",32,"Voted",1,"Postgraduate","Full-time",59
+"Unit_32_183",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_242",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_154",32,"Not Voted",0,"Postgraduate","Full-time",59
+"Unit_32_149",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_93",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_205",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_200",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_141",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_138",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_19",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_225",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_201",32,"Not Voted",0,"Postgraduate","Full-time",59
+"Unit_32_120",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_241",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_49",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_187",32,"Voted",1,"Postgraduate","Full-time",59
+"Unit_32_174",32,"Voted",1,"Undergraduate","Full-time",59
+"Unit_32_127",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_102",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_9",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_32",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_166",32,"Not Voted",0,"Postgraduate","Full-time",59
+"Unit_32_116",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_88",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_32_220",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_194",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_155",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_192",32,"Not Voted",0,"Postgraduate","Part-time",59
+"Unit_32_165",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_197",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_153",32,"Not Voted",0,"Postgraduate","Full-time",59
+"Unit_32_204",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_244",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_118",32,"Not Voted",0,"Undergraduate","Full-time",59
+"Unit_32_63",32,"Not Voted",0,"Undergraduate","Part-time",59
+"Unit_33_331",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_288",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_231",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_395",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_397",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_300",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_128",33,"Not Voted",0,"Undergraduate","Part-time",99
+"Unit_33_252",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_326",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_315",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_109",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_89",33,"Not Voted",0,"Undergraduate","Part-time",99
+"Unit_33_95",33,"Not Voted",0,"Postgraduate","Part-time",99
+"Unit_33_78",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_11",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_197",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_229",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_16",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_361",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_400",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_386",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_172",33,"Not Voted",0,"Postgraduate","Part-time",99
+"Unit_33_240",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_310",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_132",33,"Not Voted",0,"Undergraduate","Part-time",99
+"Unit_33_191",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_119",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_224",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_241",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_8",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_44",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_383",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_155",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_83",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_382",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_324",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_322",33,"Not Voted",0,"Undergraduate","Part-time",99
+"Unit_33_292",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_213",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_246",33,"Not Voted",0,"Postgraduate","Part-time",99
+"Unit_33_295",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_207",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_9",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_31",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_261",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_236",33,"Not Voted",0,"Undergraduate","Part-time",99
+"Unit_33_345",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_230",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_124",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_200",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_36",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_79",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_115",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_221",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_65",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_262",33,"Voted",1,"Undergraduate","Full-time",99
+"Unit_33_304",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_239",33,"Not Voted",0,"Undergraduate","Part-time",99
+"Unit_33_379",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_280",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_138",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_110",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_50",33,"Voted",1,"Postgraduate","Part-time",99
+"Unit_33_204",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_348",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_105",33,"Not Voted",0,"Postgraduate","Part-time",99
+"Unit_33_43",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_193",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_378",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_168",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_149",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_247",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_296",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_358",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_263",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_96",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_281",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_148",33,"Not Voted",0,"Postgraduate","Part-time",99
+"Unit_33_118",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_146",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_269",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_7",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_29",33,"Voted",1,"Undergraduate","Part-time",99
+"Unit_33_27",33,"Not Voted",0,"Postgraduate","Part-time",99
+"Unit_33_330",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_142",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_187",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_245",33,"Not Voted",0,"Undergraduate","Part-time",99
+"Unit_33_174",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_334",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_154",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_59",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_314",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_170",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_17",33,"Not Voted",0,"Postgraduate","Full-time",99
+"Unit_33_1",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_104",33,"Not Voted",0,"Undergraduate","Full-time",99
+"Unit_33_384",33,"Voted",1,"Postgraduate","Full-time",99
+"Unit_33_249",33,"Not Voted",0,"Undergraduate","Full-time",99
